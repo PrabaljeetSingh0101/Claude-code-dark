@@ -1,0 +1,16 @@
+{
+  "name": "claude-official-theme",
+  "displayName": "Claude Official Dark",
+  "description": "VS Code dark theme built from official Claude Code CLI binary colors (v2.1.202).",
+  "version": "1.0.0",
+  "publisher": "prabal",
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [{
+      "label": "Claude Official Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/claude-dark.json"
+    }]
+  }
+}
