@@ -1,4 +1,4 @@
-# Claude Nine
+# Claude Code Dark Theme
 
 > The Claude feeling, now in your editor.
 
