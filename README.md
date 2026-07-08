@@ -16,4 +16,4 @@ Every color — surfaces, accents, errors, warnings, git states — was pulled f
 
 ## 📸 Previews
 
-![alt text](image-4.png)
+![alt text](image.png)
