@@ -7,3 +7,5 @@ The theme extracted directly from the official **Claude Code CLI** binaries — 
 ## 💡 Why bother
 
 So the good feeling follows you from terminal to vs code — same feeling, same calm.
+
+![alt text](image.png)
