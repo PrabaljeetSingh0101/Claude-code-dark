@@ -1,11 +1,20 @@
 # Claude Code Dark Theme
 
-> The Claude feeling, now in vs code.
+> *The Claude feeling, now in your editor.*
 
-The theme extracted directly from the official **Claude Code CLI** binaries — the real palette, mapped 1:1.
+A dark theme extracted directly from the official **Claude Code CLI** binaries — the real palette, mapped 1:1 to VS Code.
 
-## 💡 Why bother
+## 🚀 Install
 
-So the good feeling follows you from terminal to vs code — same feeling, same calm.
+1. Open VS Code → Extensions (`Ctrl+Shift+X`)
+2. Search **"Claude Code Dark"**
+3. Click Install → Set as Color Theme
 
-![alt text](image.png)
+## 💡 About
+
+Every color — surfaces, accents, errors, warnings, git states — was pulled from Anthropic's own terminal palette. Same calm, same focus, just in VS Code now.
+
+## 📸 Previews
+
+### C++
+![C++ Preview](image.png)
