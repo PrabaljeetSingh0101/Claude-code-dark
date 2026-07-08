@@ -1,0 +1,4 @@
+.git
+.vscode
+**/*.map
+*.DS_Store
