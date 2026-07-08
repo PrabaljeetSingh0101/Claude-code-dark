@@ -76,7 +76,7 @@
 
     "editorBracketHighlight.foreground1": "#D77757",
     "editorBracketHighlight.foreground2": "#FBBC04",
-    "editorBracketHighlight.foreground3": "#6A9BCC",
+    "editorBracketHighlight.foreground3": "#8E8C8F",
     "editorBracketHighlight.foreground4": "#4EBA65",
     "editorBracketHighlight.foreground5": "#827DBD",
     "editorBracketHighlight.foreground6": "#FF6B80",
@@ -96,7 +96,7 @@
 
     "editorError.foreground": "#FF6B80",
     "editorWarning.foreground": "#FFC107",
-    "editorInfo.foreground": "#6A9BCC",
+    "editorInfo.foreground": "#8E8C8F",
 
     "diffEditor.insertedTextBackground": "#225C2B40",
     "diffEditor.insertedLineBackground": "#225C2B20",
@@ -138,7 +138,7 @@
     "terminal.ansiRed": "#DC2626",
     "terminal.ansiGreen": "#16A34A",
     "terminal.ansiYellow": "#CA8A04",
-    "terminal.ansiBlue": "#6A9BCC",
+    "terminal.ansiBlue": "#8E8C8F",
     "terminal.ansiMagenta": "#827DBD",
     "terminal.ansiCyan": "#0891B2",
     "terminal.ansiWhite": "#c3c2b7",
@@ -167,7 +167,7 @@
     "gitDecoration.addedResourceForeground": "#4EBA65",
     "gitDecoration.modifiedResourceForeground": "#FBBC04",
     "gitDecoration.deletedResourceForeground": "#FF6B80",
-    "gitDecoration.renamedResourceForeground": "#6A9BCC",
+    "gitDecoration.renamedResourceForeground": "#8E8C8F",
     "gitDecoration.untrackedResourceForeground": "#4EBA65",
     "gitDecoration.ignoredResourceForeground": "#505050",
     "gitDecoration.conflictingResourceForeground": "#D77757",
@@ -186,7 +186,7 @@
     "notificationToast.border": "#D7775760",
     "notificationsErrorIcon.foreground": "#FF6B80",
     "notificationsWarningIcon.foreground": "#FFC107",
-    "notificationsInfoIcon.foreground": "#6A9BCC",
+    "notificationsInfoIcon.foreground": "#8E8C8F",
     "notificationLink.foreground": "#D77757",
 
     "peekView.border": "#D77757",
@@ -226,12 +226,12 @@
     "debugIcon.pauseForeground": "#FBBC04",
     "debugIcon.stopForeground": "#FF6B80",
     "debugIcon.restartForeground": "#D77757",
-    "debugIcon.stepOverForeground": "#6A9BCC",
-    "debugIcon.stepIntoForeground": "#6A9BCC",
-    "debugIcon.stepOutForeground": "#6A9BCC",
+    "debugIcon.stepOverForeground": "#8E8C8F",
+    "debugIcon.stepIntoForeground": "#8E8C8F",
+    "debugIcon.stepOutForeground": "#8E8C8F",
     "debugConsole.errorForeground": "#FF6B80",
     "debugConsole.warningForeground": "#FFC107",
-    "debugConsole.infoForeground": "#6A9BCC",
+    "debugConsole.infoForeground": "#8E8C8F",
     "debugConsole.sourceForeground": "#999999",
 
     "badge.background": "#D77757",
@@ -252,7 +252,7 @@
     "editorInlayHint.background": "#2a2a2980",
     "editorInlayHint.foreground": "#999999",
     "editorInlayHint.typeBackground": "#2a2a2980",
-    "editorInlayHint.typeForeground": "#6A9BCC",
+    "editorInlayHint.typeForeground": "#8E8C8F",
     "editorInlayHint.parameterBackground": "#2a2a2980",
     "editorInlayHint.parameterForeground": "#999999",
 
@@ -260,11 +260,11 @@
 
     "tree.indentGuidesStroke": "#2a2a29",
 
-    "symbolIcon.classForeground": "#6A9BCC",
-    "symbolIcon.enumeratorForeground": "#6A9BCC",
+    "symbolIcon.classForeground": "#8E8C8F",
+    "symbolIcon.enumeratorForeground": "#8E8C8F",
     "symbolIcon.eventForeground": "#FBBC04",
     "symbolIcon.methodForeground": "#FBBC04",
-    "symbolIcon.interfaceForeground": "#6A9BCC",
+    "symbolIcon.interfaceForeground": "#8E8C8F",
     "symbolIcon.propertyForeground": "#FFFFFF",
     "symbolIcon.variableForeground": "#FFFFFF",
     "symbolIcon.stringForeground": "#4EBA65",
@@ -286,10 +286,10 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "class": { "foreground": "#6A9BCC" },
-    "interface": { "foreground": "#6A9BCC" },
-    "type": { "foreground": "#6A9BCC" },
-    "enum": { "foreground": "#6A9BCC" },
+    "class": { "foreground": "#8E8C8F" },
+    "interface": { "foreground": "#8E8C8F" },
+    "type": { "foreground": "#8E8C8F" },
+    "enum": { "foreground": "#8E8C8F" },
     "function": { "foreground": "#FBBC04" },
     "method": { "foreground": "#FBBC04" },
     "macro": { "foreground": "#827DBD" },
@@ -337,7 +337,7 @@
     {
       "name": "Types & Classes",
       "scope": ["entity.name.type", "entity.name.class", "support.type", "support.class"],
-      "settings": { "foreground": "#6A9BCC" }
+      "settings": { "foreground": "#8E8C8F" }
     },
     {
       "name": "Variables",
@@ -377,7 +377,7 @@
     {
       "name": "CSS Properties",
       "scope": ["support.type.property-name"],
-      "settings": { "foreground": "#6A9BCC" }
+      "settings": { "foreground": "#8E8C8F" }
     },
     {
       "name": "Markdown Headings",
@@ -387,7 +387,7 @@
     {
       "name": "Markdown Links",
       "scope": ["markup.underline.link", "string.other.link"],
-      "settings": { "foreground": "#6A9BCC" }
+      "settings": { "foreground": "#8E8C8F" }
     },
     {
       "name": "Markdown Bold",
@@ -402,7 +402,7 @@
     {
       "name": "Inherited Classes",
       "scope": ["entity.other.inherited-class"],
-      "settings": { "foreground": "#6A9BCC" }
+      "settings": { "foreground": "#8E8C8F" }
     }
   ]
 }
