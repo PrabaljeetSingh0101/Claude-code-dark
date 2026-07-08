@@ -311,8 +311,13 @@
     },
     {
       "name": "Keywords",
-      "scope": ["keyword", "storage", "storage.modifier", "storage.type", "keyword.control"],
-      "settings": { "foreground": "#D77757", "fontStyle": "bold" }
+      "scope": ["keyword", "keyword.control"],
+      "settings": { "foreground": "#D77757" }
+    },
+    {
+      "name": "Storage & Modifiers",
+      "scope": ["storage", "storage.type", "storage.modifier", "storage.type.modifier"],
+      "settings": { "foreground": "#D77757", "fontStyle": "italic" }
     },
     {
       "name": "Strings",
@@ -360,9 +365,9 @@
       "settings": { "foreground": "#D77757" }
     },
     {
-      "name": "HTML/XML Attributes",
-      "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#FBBC04" }
+      "name": "HTML/XML Attributes & CSS Pseudo-classes",
+      "scope": ["entity.other.attribute-name", "entity.other.pseudo-class", "entity.other.pseudo-element"],
+      "settings": { "foreground": "#FBBC04", "fontStyle": "italic" }
     },
     {
       "name": "CSS Selectors",
@@ -383,6 +388,31 @@
       "name": "Markdown Links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": { "foreground": "#6A9BCC" }
+    },
+    {
+      "name": "Markdown Bold",
+      "scope": ["markup.bold"],
+      "settings": { "fontStyle": "bold" }
+    },
+    {
+      "name": "Markdown Italic & Quotes",
+      "scope": ["markup.italic", "markup.quote"],
+      "settings": { "fontStyle": "italic" }
+    },
+    {
+      "name": "Invalid & Deprecated",
+      "scope": ["invalid", "invalid.deprecated"],
+      "settings": { "fontStyle": "italic underline", "foreground": "#FF6B80" }
+    },
+    {
+      "name": "CSS/SASS Variables",
+      "scope": ["variable.scss", "variable.sass", "variable.other.less"],
+      "settings": { "fontStyle": "italic" }
+    },
+    {
+      "name": "Inherited Classes",
+      "scope": ["entity.other.inherited-class"],
+      "settings": { "fontStyle": "italic", "foreground": "#6A9BCC" }
     }
   ]
 }
