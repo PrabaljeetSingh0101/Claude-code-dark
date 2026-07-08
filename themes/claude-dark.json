@@ -307,7 +307,7 @@
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
-      "settings": { "foreground": "#999999", "fontStyle": "italic" }
+      "settings": { "foreground": "#999999" }
     },
     {
       "name": "Keywords",
@@ -317,7 +317,7 @@
     {
       "name": "Storage & Modifiers",
       "scope": ["storage", "storage.type", "storage.modifier", "storage.type.modifier"],
-      "settings": { "foreground": "#D77757", "fontStyle": "italic" }
+      "settings": { "foreground": "#D77757" }
     },
     {
       "name": "Strings",
@@ -367,7 +367,7 @@
     {
       "name": "HTML/XML Attributes & CSS Pseudo-classes",
       "scope": ["entity.other.attribute-name", "entity.other.pseudo-class", "entity.other.pseudo-element"],
-      "settings": { "foreground": "#FBBC04", "fontStyle": "italic" }
+      "settings": { "foreground": "#FBBC04" }
     },
     {
       "name": "CSS Selectors",
@@ -395,24 +395,14 @@
       "settings": { "fontStyle": "bold" }
     },
     {
-      "name": "Markdown Italic & Quotes",
-      "scope": ["markup.italic", "markup.quote"],
-      "settings": { "fontStyle": "italic" }
-    },
-    {
       "name": "Invalid & Deprecated",
       "scope": ["invalid", "invalid.deprecated"],
-      "settings": { "fontStyle": "italic underline", "foreground": "#FF6B80" }
-    },
-    {
-      "name": "CSS/SASS Variables",
-      "scope": ["variable.scss", "variable.sass", "variable.other.less"],
-      "settings": { "fontStyle": "italic" }
+      "settings": { "fontStyle": "underline", "foreground": "#FF6B80" }
     },
     {
       "name": "Inherited Classes",
       "scope": ["entity.other.inherited-class"],
-      "settings": { "fontStyle": "italic", "foreground": "#6A9BCC" }
+      "settings": { "foreground": "#6A9BCC" }
     }
   ]
 }
