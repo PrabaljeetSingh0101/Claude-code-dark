@@ -1,16 +1,25 @@
 {
   "name": "claude-code-dark",
   "displayName": "Claude Code Dark",
-  "description": "A Claude Code theme, for VS Code; built from official Claude Code CLI binary colors.",
-  "version": "1.0.0",
+  "description": "A quiet, focused dark theme built from the Claude Code CLI palette.",
+  "version": "1.0.1",
   "publisher": "prabal",
+  "license": "MIT",
   "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#1a1a2e",
+    "theme": "dark"
+  },
   "engines": { "vscode": "^1.80.0" },
   "categories": ["Themes"],
-  "keywords": ["claude", "anthropic", "dark", "theme", "claude code"],
+  "keywords": ["claude", "anthropic", "dark", "theme", "claude code", "color-theme", "dark-theme", "minimal", "focused", "cli"],
   "repository": {
     "type": "git",
     "url": "https://github.com/PrabaljeetSingh0101/Claude-code-dark"
+  },
+  "homepage": "https://github.com/PrabaljeetSingh0101/Claude-code-dark#readme",
+  "bugs": {
+    "url": "https://github.com/PrabaljeetSingh0101/Claude-code-dark/issues"
   },
   "contributes": {
     "themes": [{

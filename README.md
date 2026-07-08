@@ -1,13 +1,17 @@
-# Claude Code Dark Theme
+# Claude Code Dark
 
-> *The Claude feeling, now in your editor.*
+A dark theme that feels quiet, focused, and calm.
 
-A dark theme extracted directly from the official **Claude Code CLI** binaries — the real palette, mapped 1:1 to VS Code.
+![Claude Code Dark Theme](https://github.com/PrabaljeetSingh0101/Claude-code-dark/raw/main/image.png)
 
-## 💡 About
+## About
 
-Every color — surfaces, accents, errors, warnings, git states — was pulled from Anthropic's own terminal palette. Same calm, same focus, just in VS Code now.
+Calm tones, clean contrast. A theme that stays out of your way and lets you focus.
 
-## 📸 Previews
+Built from the Claude Code CLI palette — covers surfaces, syntax, accents, git states, and terminal.
 
-![alt text](image.png)
+---
+
+**Enjoy the calm.** 🤍
+
+---
