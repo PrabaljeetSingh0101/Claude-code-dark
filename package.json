@@ -1,7 +1,7 @@
 {
   "name": "claude-code-dark",
   "displayName": "Claude Code Dark",
-  "description": "VS Code dark theme built from official Claude Code CLI binary colors (v2.1.202).",
+  "description": "A Claude Code theme, for VS Code; built from official Claude Code CLI binary colors.",
   "version": "1.0.0",
   "publisher": "prabal",
   "icon": "logo.png",
