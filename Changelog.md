@@ -11,6 +11,7 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), an
 - Hover Styles: Deepened hover backgrounds for lists, settings, and the status bar (now `#42423F` and `#323233`).
 - Sidebar & Badges: Replaced all orange highlights, buttons, and badges in the Side Bar with Claude Blue (`#264F78`) featuring high-contrast white text.
 - Debug Status Bar: Improved readability during debugging by explicitly setting the status bar background to Claude Blue (`#264F78`) with crisp white text.
+- Description.
 - Debug Toolbar Icons: Mapped debug actions to specific Claude palette colors (Yellow for Continue/Pause/Step Out, Green for Step Over, Blue for Step Into).
 - Notifications: Darkened notification pop-up backgrounds to `#1D1D1C` with a softer `#C3C2B7` text color.
 - Integrated Terminal: Updated the terminal background color to `#1D1D1C`.
