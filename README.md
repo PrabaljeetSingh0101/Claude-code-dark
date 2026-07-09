@@ -8,7 +8,7 @@ A dark theme that feels quiet, focused, and calm.
 
 Calm tones, clean contrast. A theme that stays out of your way and lets you focus.
 
-Built from the Claude Code CLI palette — covers surfaces, syntax, accents, git states, and terminal.
+Inspired from the Claude Code — covers surfaces, syntax, accents, git states, debugger and terminal.
 
 ---
 
