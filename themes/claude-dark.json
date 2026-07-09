@@ -34,12 +34,12 @@
     "activityBarBadge.foreground": "#000000",
 
     "sideBar.background": "#1A1A19",
-    "sideBar.foreground": "#FFFFFF",
+    "sideBar.foreground": "#F8F8F6",
     "sideBar.border": "#2a2a29",
     "sideBarSectionHeader.background": "#1A1A19",
-    "sideBarSectionHeader.foreground": "#FFFFFF",
+    "sideBarSectionHeader.foreground": "#F8F8F6",
     "sideBarSectionHeader.border": "#2a2a29",
-    "sideBarTitle.foreground": "#FFFFFF",
+    "sideBarTitle.foreground": "#F8F8F6",
 
     "editorGroupHeader.tabsBackground": "#1A1A19",
     "editorGroupHeader.tabsBorder": "#2a2a29",
@@ -182,8 +182,8 @@
     "breadcrumb.activeSelectionForeground": "#FFFFFF",
     "breadcrumbPicker.background": "#1F1F1E",
 
-    "notifications.background": "#1D1D1C",
-    "notifications.foreground": "#FFFFFF",
+    "notifications.background": "#1F1F1E",
+    "notifications.foreground": "#C3C2B7",
     "notifications.border": "#2a2a29",
     "notificationCenter.border": "#2a2a29",
     "notificationToast.border": "#D7775760",
