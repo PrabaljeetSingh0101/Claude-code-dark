@@ -132,7 +132,8 @@
 
     "list.activeSelectionBackground": "#264F78",
     "list.activeSelectionForeground": "#F8F8F6",
-    "list.hoverBackground": "#42423F",
+    "list.hoverBackground": "#121212",
+    "list.hoverForeground": "#F8F8F6",
     "list.focusBackground": "#264F7880",
     "list.highlightForeground": "#264F78",
 
