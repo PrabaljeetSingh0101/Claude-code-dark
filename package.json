@@ -2,7 +2,7 @@
   "name": "claude-code-dark",
   "displayName": "Claude Code Dark",
   "description": "A calm, focused dark theme built from the Claude Code CLI palette.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "prabal",
   "license": "MIT",
   "icon": "logo.png",
