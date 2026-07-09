@@ -7,23 +7,23 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), an
 ## [1.0.4] - 2026-07-09
 
 ### Changed
-- **Global Typography**: Softened pure white (`#FFFFFF`) to off-white (`#F8F8F6`) across all code syntax, UI text, and badges to reduce eye strain.
-- **Hover Styles**: Deepened hover backgrounds for lists, settings, and the status bar (now `#42423F` and `#323233`).
-- **Sidebar & Badges**: Replaced all orange highlights, buttons, and badges in the Side Bar with Claude Blue (`#264F78`) featuring high-contrast white text.
-- **Debug Status Bar**: Improved readability during debugging by explicitly setting the status bar background to Claude Blue (`#264F78`) with crisp white text.
-- **Debug Toolbar Icons**: Mapped debug actions to specific Claude palette colors (Yellow for Continue/Pause/Step Out, Green for Step Over, Blue for Step Into).
-- **Notifications**: Darkened notification pop-up backgrounds to `#1D1D1C` with a softer `#C3C2B7` text color.
+- Global Typography: Softened pure white (`#FFFFFF`) to off-white (`#F8F8F6`) across all code syntax, UI text, and badges to reduce eye strain.
+- Hover Styles: Deepened hover backgrounds for lists, settings, and the status bar (now `#42423F` and `#323233`).
+- Sidebar & Badges: Replaced all orange highlights, buttons, and badges in the Side Bar with Claude Blue (`#264F78`) featuring high-contrast white text.
+- Debug Status Bar: Improved readability during debugging by explicitly setting the status bar background to Claude Blue (`#264F78`) with crisp white text.
+- Debug Toolbar Icons: Mapped debug actions to specific Claude palette colors (Yellow for Continue/Pause/Step Out, Green for Step Over, Blue for Step Into).
+- Notifications: Darkened notification pop-up backgrounds to `#1D1D1C` with a softer `#C3C2B7` text color.
 - Integrated Terminal: Updated the terminal background color to `#1D1D1C`.
 
 ## [1.0.3] - 2026-07-08
 
 ### Fixed
-- changed the logo.
+- Changed the logo.
 
 ## [1.0.2] - 2026-07-08
 
 ### Fixed
-- changed font from bold to normal.
+- Changed font from bold to normal.
 
 ## [1.0.1] - 2026-07-08
 
