@@ -34,12 +34,12 @@
     "activityBarBadge.foreground": "#F8F8F6",
 
     "sideBar.background": "#1A1A19",
-    "sideBar.foreground": "#F8F8F6",
+    "sideBar.foreground": "#C3C2B7",
     "sideBar.border": "#2a2a29",
     "sideBarSectionHeader.background": "#1A1A19",
-    "sideBarSectionHeader.foreground": "#F8F8F6",
+    "sideBarSectionHeader.foreground": "#C3C2B7",
     "sideBarSectionHeader.border": "#2a2a29",
-    "sideBarTitle.foreground": "#F8F8F6",
+    "sideBarTitle.foreground": "#C3C2B7",
 
     "editorGroupHeader.tabsBackground": "#1A1A19",
     "editorGroupHeader.tabsBorder": "#2a2a29",
