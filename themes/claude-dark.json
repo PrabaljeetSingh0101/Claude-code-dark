@@ -124,15 +124,15 @@
     "input.border": "#2a2a29",
     "inputOption.activeBorder": "#D77757",
 
-    "button.background": "#D77757",
-    "button.foreground": "#000000",
-    "button.hoverBackground": "#EB9F7F",
+    "button.background": "#264F78",
+    "button.foreground": "#FFFFFF",
+    "button.hoverBackground": "#326496",
 
     "list.activeSelectionBackground": "#264F78",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.hoverBackground": "#42423F",
     "list.focusBackground": "#264F7880",
-    "list.highlightForeground": "#D77757",
+    "list.highlightForeground": "#264F78",
 
     "terminal.background": "#1A1A19",
     "terminal.foreground": "#FFFFFF",
@@ -173,7 +173,7 @@
     "gitDecoration.renamedResourceForeground": "#6A9BCC",
     "gitDecoration.untrackedResourceForeground": "#4EBA65",
     "gitDecoration.ignoredResourceForeground": "#505050",
-    "gitDecoration.conflictingResourceForeground": "#264F78",
+    "gitDecoration.conflictingResourceForeground": "#D77757",
     "gitDecoration.submoduleResourceForeground": "#0891B2",
 
     "breadcrumb.background": "#1A1A19",
@@ -221,14 +221,14 @@
     "merge.border": "#2a2a29",
 
     "debugToolBar.background": "#1F1F1E",
-    "debugToolBar.border": "#264F7860",
+    "debugToolBar.border": "#D7775760",
     "debugIcon.breakpointForeground": "#FF6B80",
     "debugIcon.breakpointDisabledForeground": "#505050",
     "debugIcon.breakpointUnverifiedForeground": "#FBBC04",
     "debugIcon.startForeground": "#4EBA65",
     "debugIcon.pauseForeground": "#FBBC04",
     "debugIcon.stopForeground": "#FF6B80",
-    "debugIcon.restartForeground": "#264F78",
+    "debugIcon.restartForeground": "#D77757",
     "debugIcon.stepOverForeground": "#6A9BCC",
     "debugIcon.stepIntoForeground": "#6A9BCC",
     "debugIcon.stepOutForeground": "#6A9BCC",
@@ -237,8 +237,8 @@
     "debugConsole.infoForeground": "#6A9BCC",
     "debugConsole.sourceForeground": "#999999",
 
-    "badge.background": "#D77757",
-    "badge.foreground": "#000000",
+    "badge.background": "#264F78",
+    "badge.foreground": "#FFFFFF",
     "activityBarBadge.background": "#D77757",
     "activityBarBadge.foreground": "#000000",
 
