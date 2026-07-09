@@ -4,6 +4,15 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.0.5] - 2026-07-09
+
+### Changed
+- **Explorer Pane**: Dimmed file names and sidebar text to `#C3C2B7` to reduce distraction while coding.
+- **UI Contrast**: Updated remaining black text inside orange/blue badges and remote status bars to off-white (`#F8F8F6`) for perfect readability.
+
+### Fixed
+- **Status Bar**: Explicitly set the "no folder open" status bar color to `#181817`, overriding VS Code's default jarring purple (`#68217A`).
+
 ## [1.0.4] - 2026-07-09
 
 ### Changed
