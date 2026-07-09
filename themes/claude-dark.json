@@ -31,7 +31,7 @@
     "activityBar.activeBackground": "#D7775720",
     "activityBar.border": "#2a2a29",
     "activityBarBadge.background": "#D77757",
-    "activityBarBadge.foreground": "#000000",
+    "activityBarBadge.foreground": "#F8F8F6",
 
     "sideBar.background": "#1A1A19",
     "sideBar.foreground": "#F8F8F6",
@@ -119,7 +119,7 @@
     "statusBarItem.hoverBackground": "#323233",
     "statusBarItem.hoverForeground": "#F8F8F6",
     "statusBarItem.remoteBackground": "#D77757",
-    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteForeground": "#F8F8F6",
 
     "input.background": "#1A1A19",
     "input.foreground": "#F8F8F6",
