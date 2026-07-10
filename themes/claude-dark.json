@@ -93,6 +93,7 @@
     "editorSuggestWidget.border": "#2a2a29",
     "editorSuggestWidget.highlightForeground": "#D77757",
     "editorSuggestWidget.selectedBackground": "#264F78",
+    "editorSuggestWidget.focusHighlightForeground": "#FBBC04",
 
     "editorError.foreground": "#FF6B80",
     "editorWarning.foreground": "#FFC107",
@@ -134,7 +135,8 @@
     "list.activeSelectionForeground": "#F7F7F5",
     "list.hoverBackground": "#42423F",
     "list.focusBackground": "#264F7880",
-    "list.highlightForeground": "#264F78",
+    "list.highlightForeground": "#D77757",
+    "list.focusHighlightForeground": "#FBBC04",
 
     "terminal.background": "#1A1A19",
     "terminal.foreground": "#F7F7F5",
