@@ -226,7 +226,7 @@
 
     "debugToolBar.background": "#1F1F1E",
     "debugToolBar.border": "#D7775760",
-    "debugIcon.breakpointForeground": "#FF6B80",
+    "debugIcon.breakpointForeground": "#E51400",
     "debugIcon.breakpointDisabledForeground": "#505050",
     "debugIcon.breakpointUnverifiedForeground": "#FBBC04",
     "debugIcon.startForeground": "#4EBA65",
