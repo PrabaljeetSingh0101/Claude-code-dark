@@ -59,7 +59,7 @@
     "editorLineNumber.activeForeground": "#999999",
     "editorCursor.foreground": "#D77757",
     "editorStickyScroll.background": "#1F1F1E",
-    "editorStickyScroll.border": "#2a2a29",
+    "editorStickyScroll.border": "#30302E",
     "editor.selectionBackground": "#264F78",
     "editor.inactiveSelectionBackground": "#264F7880",
     "editor.selectionHighlightBackground": "#264F7880",
