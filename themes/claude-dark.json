@@ -41,7 +41,7 @@
     "sideBarSectionHeader.border": "#2a2a29",
     "sideBarTitle.foreground": "#C3C2B7",
 
-    "editorGroupHeader.tabsBackground": "#1A1A19",
+    "editorGroupHeader.tabsBackground": "#141413",
     "editorGroupHeader.tabsBorder": "#2a2a29",
     "editorGroup.border": "#2a2a29",
 
@@ -49,7 +49,7 @@
     "tab.activeForeground": "#F7F7F5",
     "tab.activeBorder": "#D77757",
     "tab.activeBorderTop": "#D77757",
-    "tab.inactiveBackground": "#1A1A19",
+    "tab.inactiveBackground": "#141413",
     "tab.inactiveForeground": "#999999",
     "tab.border": "#2a2a29",
 
