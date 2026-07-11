@@ -246,7 +246,7 @@
     "badge.background": "#264F78",
     "badge.foreground": "#F7F7F5",
 
-    "quickInput.background": "#1F1F1E",
+    "quickInput.background": "#383835",
     "quickInput.foreground": "#F7F7F5",
     "quickInputList.focusBackground": "#264F78",
     "pickerGroup.border": "#2a2a29",
