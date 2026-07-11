@@ -23,7 +23,7 @@
     "titleBar.inactiveForeground": "#999999",
     "titleBar.border": "#2a2a29",
 
-    "activityBar.background": "#181817",
+    "activityBar.background": "#141413",
     "activityBar.foreground": "#F7F7F5",
     "activityBar.inactiveForeground": "#999999",
     "activityBar.activeBorder": "#D77757",
@@ -112,10 +112,10 @@
     "panelTitle.inactiveForeground": "#999999",
     "panelTitle.activeBorder": "#D77757",
 
-    "statusBar.background": "#181817",
+    "statusBar.background": "#141413",
     "statusBar.foreground": "#999999",
     "statusBar.border": "#2a2a29",
-    "statusBar.noFolderBackground": "#181817",
+    "statusBar.noFolderBackground": "#141413",
     "statusBar.noFolderForeground": "#999999",
     "statusBar.debuggingBackground": "#264F78",
     "statusBar.debuggingForeground": "#F7F7F5",
