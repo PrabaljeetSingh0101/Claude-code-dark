@@ -17,9 +17,9 @@
     "window.activeBorder": "#00000000",
     "window.inactiveBorder": "#00000000",
 
-    "titleBar.activeBackground": "#1A1A19",
+    "titleBar.activeBackground": "#141413",
     "titleBar.activeForeground": "#F7F7F5",
-    "titleBar.inactiveBackground": "#1A1A19",
+    "titleBar.inactiveBackground": "#141413",
     "titleBar.inactiveForeground": "#999999",
     "titleBar.border": "#2a2a29",
 
