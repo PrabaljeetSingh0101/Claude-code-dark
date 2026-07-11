@@ -4,6 +4,19 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.0.6] - 2026-07-11
+
+### Added
+- Sticky Scroll: Added a subtle bottom border (`#30302E`) to visually separate sticky function headers from the main code.
+
+### Changed
+- Unified Outer Frame: Darkened the Activity Bar, Status Bar, Title Bar, and Tab Bar to a uniform deep dark color (`#141413`).
+- Command Palette: Updated the quick input background to `#2c2c2a`.
+- Breakpoints: Changed breakpoint indicator from soft red to a striking classic red (`#E51400`).
+
+### Fixed
+- IntelliSense Readability: Fixed an issue where matched search text disappeared when a suggestion was selected by explicitly defining focus highlight colors (`#FBBC04`).
+
 ## [1.0.5] - 2026-07-09
 
 ### Changed
