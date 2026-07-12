@@ -7,7 +7,7 @@
     "descriptionForeground": "#999999",
     "errorForeground": "#FF6B80",
     "icon.foreground": "#999999",
-    "focusBorder": "#D77757",
+    "focusBorder": "#6A9BCC",
     "contrastBorder": "#00000000",
     "contrastActiveBorder": "#00000000",
     "widget.shadow": "#00000080",
@@ -28,7 +28,7 @@
     "activityBar.inactiveForeground": "#999999",
     "activityBar.activeBorder": "#D77757",
     "activityBar.activeFocusBorder": "#D77757",
-    "activityBar.activeBackground": "#D7775720",
+    "activityBar.activeBackground": "#37373720",
     "activityBar.border": "#2a2a29",
     "activityBarBadge.background": "#D77757",
     "activityBarBadge.foreground": "#EAECF0",
@@ -47,7 +47,7 @@
 
     "tab.activeBackground": "#1F1F1E",
     "tab.activeForeground": "#EAECF0",
-    "tab.activeBorder": "#D77757",
+    "tab.activeBorder": "#00000000",
     "tab.activeBorderTop": "#D77757",
     "tab.inactiveBackground": "#141413",
     "tab.inactiveForeground": "#999999",
@@ -76,7 +76,7 @@
     "editorBracketMatch.background": "#D7775729",
     "editorBracketMatch.border": "#D77757",
 
-    "editorBracketHighlight.foreground1": "#D77757",
+    "editorBracketHighlight.foreground1": "#FBBC04",
     "editorBracketHighlight.foreground2": "#FBBC04",
     "editorBracketHighlight.foreground3": "#6A9BCC",
     "editorBracketHighlight.foreground4": "#4EBA65",
@@ -141,6 +141,7 @@
     "list.focusHighlightForeground": "#FBBC04",
 
     "terminal.background": "#1A1A19",
+    "terminal.selectionBackground": "#032042",
     "terminal.foreground": "#EAECF0",
     "terminalCursor.foreground": "#D77757",
     "terminal.ansiBlack": "#000000",
@@ -161,17 +162,17 @@
     "terminal.ansiBrightWhite": "#c3c2b7",
 
     "scrollbar.shadow": "#00000000",
-    "scrollbarSlider.background": "#D7775720",
-    "scrollbarSlider.hoverBackground": "#D7775740",
-    "scrollbarSlider.activeBackground": "#D7775760",
+    "scrollbarSlider.background": "#99999920",
+    "scrollbarSlider.hoverBackground": "#99999940",
+    "scrollbarSlider.activeBackground": "#99999960",
 
     "minimap.findMatchHighlight": "#D7775780",
     "minimap.selectionHighlight": "#264F7880",
     "minimap.errorHighlight": "#FF6B80",
     "minimap.warningHighlight": "#FFC107",
-    "minimapSlider.background": "#D7775715",
-    "minimapSlider.hoverBackground": "#D7775730",
-    "minimapSlider.activeBackground": "#D7775740",
+    "minimapSlider.background": "#99999915",
+    "minimapSlider.hoverBackground": "#99999930",
+    "minimapSlider.activeBackground": "#99999940",
 
     "gitDecoration.addedResourceForeground": "#4EBA65",
     "gitDecoration.modifiedResourceForeground": "#FBBC04",
@@ -354,7 +355,7 @@
     {
       "name": "Operators",
       "scope": ["keyword.operator"],
-      "settings": { "foreground": "#D77757" }
+      "settings": { "foreground": "#C3C2B7" }
     },
     {
       "name": "Punctuation",
