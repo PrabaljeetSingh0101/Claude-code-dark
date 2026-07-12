@@ -133,7 +133,7 @@
     "button.foreground": "#EAECF0",
     "button.hoverBackground": "#326496",
 
-    "list.activeSelectionBackground": "#264F78",
+    "list.activeSelectionBackground": "#774635",
     "list.activeSelectionForeground": "#EAECF0",
     "list.hoverBackground": "#42423F",
     "list.focusBackground": "#264F7880",
@@ -141,7 +141,7 @@
     "list.focusHighlightForeground": "#FBBC04",
 
     "terminal.background": "#1A1A19",
-    "terminal.selectionBackground": "#032042",
+    "terminal.selectionBackground": "#774635",
     "terminal.foreground": "#EAECF0",
     "terminalCursor.foreground": "#D77757",
     "terminal.ansiBlack": "#000000",
@@ -207,7 +207,7 @@
     "peekViewResult.fileForeground": "#EAECF0",
     "peekViewResult.lineForeground": "#999999",
     "peekViewResult.matchHighlightBackground": "#D7775730",
-    "peekViewResult.selectionBackground": "#264F78",
+    "peekViewResult.selectionBackground": "#774635",
     "peekViewResult.selectionForeground": "#EAECF0",
     "peekViewTitle.background": "#1F1F1E",
     "peekViewTitleDescription.foreground": "#999999",
@@ -282,7 +282,7 @@
 
     "menu.background": "#383835",
     "menu.foreground": "#EAECF0",
-    "menu.selectionBackground": "#264F78",
+    "menu.selectionBackground": "#774635",
     "menu.selectionForeground": "#EAECF0",
     "menu.separatorBackground": "#2a2a29",
     "menu.border": "#2a2a29",
