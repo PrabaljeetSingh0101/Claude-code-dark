@@ -4,6 +4,12 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.0.7] - 2026-07-13
+
+### Changed
+- Global Typography: Refined the primary text color (foreground) across the entire theme to `#EAECF0` for a crisp, natural contrast.
+- Title Bar: Softened the menu text color (File, Edit, View, etc.) to `#C3C2B7` to blend smoothly into the dark window frame.
+
 ## [1.0.6] - 2026-07-11
 
 ### Added
