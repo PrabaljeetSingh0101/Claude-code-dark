@@ -4,6 +4,13 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.0.8] - 2026-07-15
+
+### Changed
+- **Accents & Borders**: Swapped out the Claude Orange (`#D77757`) for Claude Blue (`#6A9BCC`) on various UI borders, active panel titles, input options, and list highlights for a cooler, calmer aesthetic.
+- **Notifications**: Lightened the notification background to `#323232` and removed the toast border.
+- **Terminal**: Changed terminal cursor color to a neutral grey (`#bfbfbf`).
+
 ## [1.0.7] - 2026-07-13
 
 ### Changed
