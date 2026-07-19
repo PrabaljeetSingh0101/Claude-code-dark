@@ -4,12 +4,21 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.1.0] - 2026-07-19
+
+### Changed
+- **Editorial Minimalism**: Enforced 'Invisible Chrome' by making all structural UI panel borders and notification borders completely transparent (`#00000000`).
+- **Strategic Spotlight**: Replaced 'Tech Blue' (`#6A9BCC`) borders with a 'Warm Silver' (`#C3C2B7`) spotlight on strictly active elements (tabs, panels, etc.).
+- **Typography & Warmth**: Changed primary foreground text across the editor from clinical white (`#EAECF0`) to a warm parchment white (`#E7E6E1`) for a printed paper aesthetic.
+- **Brand Accents**: Updated activity bar notification badge to True Claude Orange (`#D77757`) to act as a focused focal point.
+- **Terminal & Notifications**: Aligned terminal cursor color to 2026 dark defaults (`#bfbfbf`) and updated notifications background to the official Claude snackbar color (`#323232`).
+
 ## [1.0.8] - 2026-07-15
 
 ### Changed
-- **Accents & Borders**: Swapped out the Claude Orange (`#D77757`) for Claude Blue (`#6A9BCC`) on various UI borders, active panel titles, input options, and list highlights for a cooler, calmer aesthetic.
-- **Notifications**: Lightened the notification background to `#323232` and removed the toast border.
-- **Terminal**: Changed terminal cursor color to a neutral grey (`#bfbfbf`).
+- Accents & Borders: Swapped out the Claude Orange (`#D77757`) for Claude Blue (`#6A9BCC`) on various UI borders, active panel titles, input options, and list highlights for a cooler, calmer aesthetic.
+- Notifications: Lightened the notification background to `#323232` and removed the toast border.
+- Terminal: Changed terminal cursor color to a neutral grey (`#bfbfbf`).
 
 ## [1.0.7] - 2026-07-13
 
