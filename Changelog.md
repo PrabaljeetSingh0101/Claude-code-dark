@@ -4,6 +4,11 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.1.1] - 2026-07-19
+
+### Fixed
+- **Bracket Highlights**: Removed duplicate yellow (`#FBBC04`) on levels 1 and 2. Shifted all bracket colors forward and added Claude Orange (`#D77757`) as the new 6th level for a complete, distinct color cycle: Yellow → Blue → Green → Purple → Red → Orange.
+
 ## [1.1.0] - 2026-07-19
 
 ### Changed
