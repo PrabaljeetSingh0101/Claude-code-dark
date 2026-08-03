@@ -4,10 +4,20 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.2.0] - 2026-08-03
+
+### Changed
+- **Buttons & Sidebar Controls**: Updated sidebar and UI action buttons (e.g., "Open Folder", "Commit") to `#313130` background with crisp `#FAF9F5` foreground text.
+- **Search & Quick Input Borders**: Mapped Command Palette (`Ctrl+Shift+P`) and settings search bar focus borders to `#2A78D6`.
+- **Git Status Colors**: Refined Git added (`#38A660`) and modified (`#E0AD72`) colors for enhanced gutter and sidebar visibility.
+- **Bracket Highlights**: Updated rainbow bracket palette sequence to Yellow (`#FAC35F`) → Violet (`#C882B4`) → Blue (`#82AADC`) → Green (`#91C882`).
+- **Function Calls vs Definitions**: Adjusted Python/Jupyter `.ipynb` function and method call highlights to blend with `#DDD9D1` while retaining gold (`#FAC35F`) for function definitions.
+- **Macros**: Added dedicated C/C++ macro token coloring (`#FAC35F`).
+
 ## [1.1.1] - 2026-07-19
 
 ### Fixed
-- **Bracket Highlights**: Removed duplicate yellow (`#FBBC04`) on levels 1 and 2. Shifted all bracket colors forward and added Claude Orange (`#D77757`) as the new 6th level for a complete, distinct color cycle: Yellow → Blue → Green → Purple → Red → Orange.
+- Bracket Highlights: Removed duplicate yellow (`#FBBC04`) on levels 1 and 2. Shifted all bracket colors forward and added Claude Orange (`#D77757`) as the new 6th level for a complete, distinct color cycle: Yellow → Blue → Green → Purple → Red → Orange.
 
 ## [1.1.0] - 2026-07-19
 
