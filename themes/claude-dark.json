@@ -287,7 +287,7 @@
       "foreground": "#FAC35F"
     },
     "method": {
-      "foreground": "#BBCDEB"
+      "foreground": "#A8C4E7"
     },
     "macro": {
       "foreground": "#FAC35F"
@@ -414,10 +414,11 @@
         "support.function",
         "meta.function-call",
         "entity.name.function.member",
-        "meta.method-call"
+        "meta.method-call",
+        "meta.function-call.member"
       ],
       "settings": {
-        "foreground": "#BBCDEB"
+        "foreground": "#A8C4E7"
       }
     },
     {
