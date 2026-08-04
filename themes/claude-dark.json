@@ -143,7 +143,7 @@
     "terminal.ansiWhite": "#c3c2b7",
     "terminal.ansiBrightBlack": "#505050",
     "terminal.ansiBrightRed": "#FF6B80",
-    "terminal.ansiBrightGreen": "#4EBA65",
+    "terminal.ansiBrightGreen": "#91C882",
     "terminal.ansiBrightYellow": "#FFC107",
     "terminal.ansiBrightBlue": "#B1C3FF",
     "terminal.ansiBrightMagenta": "#AF87FF",
@@ -199,8 +199,8 @@
     "mergeEditor.change.word.background": "#225C2B40",
     "mergeEditor.conflict.unhandledUnfocused.border": "#FBBC0480",
     "mergeEditor.conflict.unhandledFocused.border": "#FAC35F",
-    "mergeEditor.conflict.handledUnfocused.border": "#4EBA6580",
-    "mergeEditor.conflict.handledFocused.border": "#4EBA65",
+    "mergeEditor.conflict.handledUnfocused.border": "#91C88280",
+    "mergeEditor.conflict.handledFocused.border": "#91C882",
     "merge.currentHeaderBackground": "#225C2B40",
     "merge.currentContentBackground": "#225C2B20",
     "merge.incomingHeaderBackground": "#264F7840",
@@ -213,7 +213,7 @@
     "debugIcon.breakpointForeground": "#E51400",
     "debugIcon.breakpointDisabledForeground": "#505050",
     "debugIcon.breakpointUnverifiedForeground": "#FAC35F",
-    "debugIcon.startForeground": "#4EBA65",
+    "debugIcon.startForeground": "#91C882",
     "debugIcon.pauseForeground": "#FAC35F",
     "debugIcon.stopForeground": "#FF6B80",
     "debugIcon.restartForeground": "#D77757",
@@ -251,7 +251,7 @@
     "symbolIcon.interfaceForeground": "#6A9BCC",
     "symbolIcon.propertyForeground": "#E8E4DC",
     "symbolIcon.variableForeground": "#E8E4DC",
-    "symbolIcon.stringForeground": "#4EBA65",
+    "symbolIcon.stringForeground": "#91C882",
     "symbolIcon.numberForeground": "#827DBD",
     "symbolIcon.booleanForeground": "#827DBD",
     "symbolIcon.keywordForeground": "#D77757",
@@ -269,16 +269,16 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class": {
-      "foreground": "#4EBA65"
+      "foreground": "#91C882"
     },
     "interface": {
-      "foreground": "#4EBA65"
+      "foreground": "#91C882"
     },
     "type": {
-      "foreground": "#4EBA65"
+      "foreground": "#91C882"
     },
     "enum": {
-      "foreground": "#4EBA65"
+      "foreground": "#91C882"
     },
     "namespace": {
       "foreground": "#E8E4DC"
@@ -311,7 +311,7 @@
       "foreground": "#D77757"
     },
     "string": {
-      "foreground": "#4EBA65"
+      "foreground": "#91C882"
     },
     "number": {
       "foreground": "#827DBD"
@@ -372,7 +372,7 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#4EBA65"
+        "foreground": "#91C882"
       }
     },
     {
@@ -427,7 +427,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#4EBA65"
+        "foreground": "#91C882"
       }
     },
     {
