@@ -247,7 +247,7 @@
     "symbolIcon.classForeground": "#6A9BCC",
     "symbolIcon.enumeratorForeground": "#6A9BCC",
     "symbolIcon.eventForeground": "#FAC35F",
-    "symbolIcon.methodForeground": "#FAC35F",
+    "symbolIcon.methodForeground": "#99D3DF",
     "symbolIcon.interfaceForeground": "#6A9BCC",
     "symbolIcon.propertyForeground": "#E8E4DC",
     "symbolIcon.variableForeground": "#E8E4DC",
@@ -287,7 +287,7 @@
       "foreground": "#FAC35F"
     },
     "method": {
-      "foreground": "#C5DAEE"
+      "foreground": "#99D3DF"
     },
     "macro": {
       "foreground": "#FAC35F"
@@ -409,15 +409,15 @@
       }
     },
     {
-      "name": "Method & Function Calls",
+      "name": "Function & Method Calls",
       "scope": [
-        "support.function",
-        "meta.function-call",
         "entity.name.function.member",
-        "meta.method-call"
+        "support.function",
+        "meta.method-call",
+        "meta.function-call.member"
       ],
       "settings": {
-        "foreground": "#C5DAEE"
+        "foreground": "#99D3DF"
       }
     },
     {
