@@ -76,7 +76,7 @@
     "editorBracketHighlight.foreground6": "#C882B4",
     "editorGutter.background": "#1F1F1E",
     "editorGutter.addedBackground": "#38A660",
-    "editorGutter.modifiedBackground": "#E0AD72",
+    "editorGutter.modifiedBackground": "#E9C46A",
     "editorGutter.deletedBackground": "#C74E39",
     "editorWidget.background": "#1A1A19",
     "editorWidget.foreground": "#DDD9D1",
@@ -161,7 +161,7 @@
     "minimapSlider.hoverBackground": "#99999930",
     "minimapSlider.activeBackground": "#99999940",
     "gitDecoration.addedResourceForeground": "#38A660",
-    "gitDecoration.modifiedResourceForeground": "#E0AD72",
+    "gitDecoration.modifiedResourceForeground": "#E9C46A",
     "gitDecoration.deletedResourceForeground": "#C74E39",
     "gitDecoration.renamedResourceForeground": "#6A9BCC",
     "gitDecoration.untrackedResourceForeground": "#38A660",
@@ -348,12 +348,10 @@
       "name": "Storage Types",
       "scope": [
         "storage.type",
-        "storage.type.modifier",
-        "storage.type.built-in",
-        "storage.type.primitive"
+        "storage.type.modifier"
       ],
       "settings": {
-        "foreground": "#264653"
+        "foreground": "#6A9BCC"
       }
     },
     {
