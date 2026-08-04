@@ -75,7 +75,7 @@
     "editorBracketHighlight.foreground5": "#91C882",
     "editorBracketHighlight.foreground6": "#C882B4",
     "editorGutter.background": "#1F1F1E",
-    "editorGutter.addedBackground": "#A4AC86",
+    "editorGutter.addedBackground": "#38A660",
     "editorGutter.modifiedBackground": "#E0AD72",
     "editorGutter.deletedBackground": "#C74E39",
     "editorWidget.background": "#1A1A19",
@@ -160,11 +160,11 @@
     "minimapSlider.background": "#99999915",
     "minimapSlider.hoverBackground": "#99999930",
     "minimapSlider.activeBackground": "#99999940",
-    "gitDecoration.addedResourceForeground": "#A4AC86",
+    "gitDecoration.addedResourceForeground": "#38A660",
     "gitDecoration.modifiedResourceForeground": "#E0AD72",
     "gitDecoration.deletedResourceForeground": "#C74E39",
     "gitDecoration.renamedResourceForeground": "#6A9BCC",
-    "gitDecoration.untrackedResourceForeground": "#A4AC86",
+    "gitDecoration.untrackedResourceForeground": "#38A660",
     "gitDecoration.ignoredResourceForeground": "#505050",
     "gitDecoration.conflictingResourceForeground": "#D77757",
     "gitDecoration.submoduleResourceForeground": "#0891B2",
@@ -351,7 +351,7 @@
         "storage.type.modifier"
       ],
       "settings": {
-        "foreground": "#6A9BCC"
+        "foreground": "#4A7C59"
       }
     },
     {
