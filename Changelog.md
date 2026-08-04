@@ -4,6 +4,17 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.3.0] - 2026-08-04
+
+### Changed
+- **Buttons & Sidebar Action Controls**: Updated sidebar/explorer buttons (e.g. "Open Folder", "Commit") to `#363637` background with `#FCFCFC` text and `#474748` hover state.
+- **Editor & Sidebar Backgrounds**: Deepened main editor canvas background to `#1A1A19` and Explorer file tree sidebar to `#171716`.
+- **Notifications & Messages**: Refined notification toasts & header backgrounds to `#282726` and list hover highlights to `#33332F`.
+- **Method & Function Calls**: Mapped method calls (e.g. `.length()`, `.size()`, `plt.hist()`) to a soft ice blue (`#BAD0EC`).
+- **C++ & Object Types**: Set `vector`, `class`, `type`, `interface`, and `enum` tokens to `#4EBA65`.
+- **Foreground Text**: Updated primary text across editor and UI from `#DDD9D1` to `#E8E4DC`.
+- **Rainbow Brackets**: Fine-tuned 5-color bracket highlight sequence: Yellow (`#FAC35F`) → Violet (`#C882B4`) → Yellow (`#FAC35F`) → Green (`#91C882`) → Blue (`#82AADC`).
+
 ## [1.2.0] - 2026-08-03
 
 ### Changed
