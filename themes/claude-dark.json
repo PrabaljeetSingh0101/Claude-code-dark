@@ -348,10 +348,12 @@
       "name": "Storage Types",
       "scope": [
         "storage.type",
-        "storage.type.modifier"
+        "storage.type.modifier",
+        "storage.type.built-in",
+        "storage.type.primitive"
       ],
       "settings": {
-        "foreground": "#4A7C59"
+        "foreground": "#264653"
       }
     },
     {
