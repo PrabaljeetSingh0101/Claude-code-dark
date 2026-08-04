@@ -4,6 +4,11 @@ All notable changes to **Claude Code Dark** are documented here.
 
 This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project uses [Semantic Versioning](https://semver.org/).
 
+## [1.2.2] - 2026-08-04
+
+### Changed
+- **Bracket Highlights**: Updated rainbow bracket palette sequence to Orange (`#F58B57`) → Blue (`#82AADC`) → Yellow (`#FAC35F`) → Green (`#91C882`).
+
 ## [1.2.1] - 2026-08-04
 
 ### Changed
