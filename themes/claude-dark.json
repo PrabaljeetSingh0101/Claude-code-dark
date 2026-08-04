@@ -75,8 +75,8 @@
     "editorBracketHighlight.foreground5": "#82AADC",
     "editorBracketHighlight.foreground6": "#FAC35F",
     "editorGutter.background": "#1F1F1E",
-    "editorGutter.addedBackground": "#91C882",
-    "editorGutter.modifiedBackground": "#FAC35F",
+    "editorGutter.addedBackground": "#38A660",
+    "editorGutter.modifiedBackground": "#E0AD72",
     "editorGutter.deletedBackground": "#C74E39",
     "editorWidget.background": "#1A1A19",
     "editorWidget.foreground": "#E8E4DC",
@@ -160,11 +160,11 @@
     "minimapSlider.background": "#99999915",
     "minimapSlider.hoverBackground": "#99999930",
     "minimapSlider.activeBackground": "#99999940",
-    "gitDecoration.addedResourceForeground": "#91C882",
-    "gitDecoration.modifiedResourceForeground": "#FAC35F",
+    "gitDecoration.addedResourceForeground": "#38A660",
+    "gitDecoration.modifiedResourceForeground": "#E0AD72",
     "gitDecoration.deletedResourceForeground": "#C74E39",
     "gitDecoration.renamedResourceForeground": "#6A9BCC",
-    "gitDecoration.untrackedResourceForeground": "#91C882",
+    "gitDecoration.untrackedResourceForeground": "#38A660",
     "gitDecoration.ignoredResourceForeground": "#505050",
     "gitDecoration.conflictingResourceForeground": "#D77757",
     "gitDecoration.submoduleResourceForeground": "#0891B2",
@@ -287,7 +287,7 @@
       "foreground": "#FAC35F"
     },
     "method": {
-      "foreground": "#E8E4DC"
+      "foreground": "#C5DAEE"
     },
     "macro": {
       "foreground": "#FAC35F"
@@ -409,13 +409,15 @@
       }
     },
     {
-      "name": "Function Calls",
+      "name": "Method & Function Calls",
       "scope": [
         "support.function",
-        "meta.function-call"
+        "meta.function-call",
+        "entity.name.function.member",
+        "meta.method-call"
       ],
       "settings": {
-        "foreground": "#E8E4DC"
+        "foreground": "#C5DAEE"
       }
     },
     {
