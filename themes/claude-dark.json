@@ -269,16 +269,16 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class": {
-      "foreground": "#4EBA65"
+      "foreground": "#6A9BCC"
     },
     "interface": {
-      "foreground": "#4EBA65"
+      "foreground": "#6A9BCC"
     },
     "type": {
-      "foreground": "#4EBA65"
+      "foreground": "#6A9BCC"
     },
     "enum": {
-      "foreground": "#4EBA65"
+      "foreground": "#6A9BCC"
     },
     "namespace": {
       "foreground": "#DDD9D1"
@@ -427,7 +427,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#4EBA65"
+        "foreground": "#6A9BCC"
       }
     },
     {
