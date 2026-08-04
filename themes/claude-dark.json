@@ -70,7 +70,7 @@
     "editorBracketMatch.border": "#2A2B2CFF",
     "editorBracketHighlight.foreground1": "#FAC35F",
     "editorBracketHighlight.foreground2": "#C882B4",
-    "editorBracketHighlight.foreground3": "#4B6D8E",
+    "editorBracketHighlight.foreground3": "#C2AF4E",
     "editorBracketHighlight.foreground4": "#91C882",
     "editorBracketHighlight.foreground5": "#FAC35F",
     "editorBracketHighlight.foreground6": "#C882B4",
@@ -269,16 +269,16 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class": {
-      "foreground": "#6DA7EC"
+      "foreground": "#C5DAEE"
     },
     "interface": {
-      "foreground": "#6DA7EC"
+      "foreground": "#C5DAEE"
     },
     "type": {
-      "foreground": "#6DA7EC"
+      "foreground": "#C5DAEE"
     },
     "enum": {
-      "foreground": "#6DA7EC"
+      "foreground": "#C5DAEE"
     },
     "namespace": {
       "foreground": "#E8E4DC"
@@ -427,7 +427,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#6DA7EC"
+        "foreground": "#C5DAEE"
       }
     },
     {
