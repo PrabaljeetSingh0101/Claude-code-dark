@@ -175,6 +175,7 @@
     "breadcrumbPicker.background": "#1A1A19",
     "notifications.background": "#1F1E1D",
     "notificationCenterHeader.background": "#1F1E1D",
+    "notifications.rowHoverBackground": "#3A3A37",
     "notifications.foreground": "#C3C2B7",
     "notifications.border": "#2a2a29",
     "notificationCenter.border": "#2a2a29",
